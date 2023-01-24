@@ -1,4 +1,7 @@
 img#image {
     width: 284.559px; 
-    height: 388px;
+    height: auto;
+    display: block;
+    max-width: 100%;
+    justify-content: center;
 }
